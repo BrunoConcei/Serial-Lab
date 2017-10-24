@@ -5,10 +5,6 @@
  
   
  <img src="/imgs/sc3.png" width="430">
- 
-## Youtube  
- 
- [https://www.youtube.com/watch?v=9CP6luC7eBs](https://www.youtube.com/watch?v=9CP6luC7eBs)
    
 ##Features
 * Read and write data to serial ports even under high traffic load without freezing.
@@ -52,12 +48,6 @@ and the result will be as shown in the image below
   
 <img src="/imgs/plotter.png" width="500">  
 
-##Download  
-Available versions  
-[**SerialLabSetupV1.0.0.msi**](https://github.com/ahmedelsayed93/Serial-Lab/raw/master/SerialLabSetupV1.0.0.msi)
-##Author 
-**Ahmed El-Sayed**  
-[**ahmed.m.elsayed93@gmail.com**](mailto:ahmed.m.elsayed93@gmail.com)  
 ##License
 Licensed under the **GNU GPLv3**  
 **Icon** is designed by [**Freepik**](www.freepik.com) from [**Flaticon**](www.flaticon.com)
